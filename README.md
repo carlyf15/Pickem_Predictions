@@ -10,9 +10,9 @@ That's where we come in. We set out to create an algorithm that would give you a
 ## Navigating the Repo:
 
 1. Tools:
-    a. Date_Grabber:[Notebook]() Function which grabs game dates.
-    b. Raw_Data_SQL:[Notebook]() Function which inputs raw data into SQL table.
-    c. Engineered_Data_SQL: [Notebook]() Function whic inputs engineered data into SQL table.
+    a. Date_Grabber:[Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Date_Grabber.ipynb) Function which grabs game dates.
+    b. Raw_Data_SQL:[Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Raw_Data_SQL.ipynb) Function which inputs raw data into SQL table.
+    c. Engineered_Data_SQL: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Engineered_Data_SQL.ipynb) Function whic inputs engineered data into SQL table.
 
 2. Files:
     a. final_model.h5: Final model weights.
@@ -22,17 +22,19 @@ That's where we come in. We set out to create an algorithm that would give you a
     e. nfl_stats_2018/2019/2020.csv: csv holding raw data in pandas dataframe
 
 4. Data Aquisition:
-    a. 2018/2019/2020_Stats: [Notebook]() Function scraping raw data into pandas dataframes
+    a. 2018_Stats: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/2018_Stats.ipynb) Function scraping raw data into pandas dataframes
+    b. 2019_Stats: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/2019_Stats.ipynb) Function scraping raw data into pandas dataframes
+    c. 2020_Stats: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/2020_Stats.ipynb) Function scraping raw data into pandas dataframes
 
 3. Analysis:
-    a. EDA_2019: [Notebook]() Extensive analysis of 2019 NFL season.
+    a. EDA_2019: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/EDA_2019.ipynb) Extensive analysis of 2019 NFL season.
 
 4. Modeling & Predictions:
-    a. Modeling: [Notenook]() Modeling data into final algorithm.
-    b. Final_Predictions: [Notebook]() Function which uses final model to make live predictions.
+    a. Modeling: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Modeling.ipynb) Modeling data into final algorithm.
+    b. Final_Predictions: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Final_Predictions.ipynb) Function which uses final model to make live predictions.
 
 5. Presentation:
-    a. Presentation: [Notenook]() Slide deck
+    a. Presentation: [Notenook](https://github.com/carlyf15/Pickem_Predictions/blob/master/presentation.pdf) Slide deck
 
 ## Methodology
 
