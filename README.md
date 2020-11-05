@@ -31,6 +31,9 @@ That's where we come in. We set out to create an algorithm that would give you a
     a. Modeling: [Notenook]() Modeling data into final algorithm.
     b. Final_Predictions: [Notebook]() Function which uses final model to make live predictions.
 
+5. Presentation:
+    a. Presentation: [Notenook]() Slide deck
+
 ## Methodology
 
 #### The Dataset:
