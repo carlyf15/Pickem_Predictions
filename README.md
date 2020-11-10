@@ -9,12 +9,12 @@ That's where we come in. We set out to create an algorithm that would give you a
 
 ## Navigating the Repo:
 
-1. Tools:
-<ol>
-    <li>a. Date_Grabber:[Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/Date_Grabber.ipynb) Function which grabs game dates.</li>
-    <li>b. Raw_Data_SQL:[Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/SQL_Files/Raw_Data_SQL.ipynb) Function which inputs raw data into SQL table.</li>
-    <li>c. Engineered_Data_SQL: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/SQL_Files/Engineered_Data_SQL.ipynb) Function whic inputs engineered data into SQL table.</li>
-</ol>
+1. **Tools**:
+<ul>
+    <li> Date_Grabber:[Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/Date_Grabber.ipynb) Function which grabs game dates.</li>
+    <li> Raw_Data_SQL:[Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/SQL_Files/Raw_Data_SQL.ipynb) Function which inputs raw data into SQL table.</li>
+    <li> Engineered_Data_SQL: [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/SQL_Files/Engineered_Data_SQL.ipynb) Function whic inputs engineered data into SQL table.</li>
+</ul>
 
 2. Files:
     a. final_model.h5: Final model weights.
