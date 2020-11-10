@@ -34,7 +34,7 @@ That's where we come in. We set out to create an algorithm that would give you a
     b. **Final_Predictions:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Final_Predictions.ipynb) Function which uses final model to make live predictions. <br>
 
 5. **Presentation:** <br>
-    a. **Presentation:** [Notenook](https://github.com/carlyf15/Pickem_Predictions/blob/master/presentation.pdf) Slide deck <br>
+    a. **Presentation:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/presentation.pdf) Slide deck <br>
 
 ## Methodology
 
