@@ -11,8 +11,8 @@ That's where we come in. We set out to create an algorithm that would give you a
 
 1. **Tools:** <br>
     a. [Date_Grabber](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/Date_Grabber.ipynb): Function which grabs game dates. <br>
-    b. **Raw_Data_SQL:**[Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/SQL_Files/Raw_Data_SQL.ipynb) Function which inputs raw data into SQL table. <br>
-    c. **Engineered_Data_SQL:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/SQL_Files/Engineered_Data_SQL.ipynb) Function whic inputs engineered data into SQL table. <br>
+    b. [Raw_Data_SQL](https://github.com/carlyf15/Pickem_Predictions/blob/master/SQL_Files/Raw_Data_SQL.ipynb): Function which inputs raw data into SQL table. <br>
+    c. [Engineered_Data_SQL](https://github.com/carlyf15/Pickem_Predictions/blob/master/SQL_Files/Engineered_Data_SQL.ipynb): Function whic inputs engineered data into SQL table. <br>
 
 2. **Files:** <br>
     a. **final_model.h5:** Final model weights. <br>
@@ -22,19 +22,19 @@ That's where we come in. We set out to create an algorithm that would give you a
     e. **nfl_stats_2018/2019/2020.csv:** csv holding raw data in pandas dataframe <br>
 
 4. **Data Aquisition:** <br>
-    a. **2018_Stats:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/2018_Stats.ipynb) Function scraping raw data into pandas dataframes <br>
-    b. **2019_Stats:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/2019_Stats.ipynb) Function scraping raw data into pandas dataframes <br>
-    c. **2020_Stats:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/2020_Stats.ipynb) Function scraping raw data into pandas dataframes <br>
+    a. [2018_Stats](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/2018_Stats.ipynb): Function scraping raw data into pandas dataframes <br>
+    b. [2019_Stats](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/2019_Stats.ipynb): Function scraping raw data into pandas dataframes <br>
+    c. [2020_Stats](https://github.com/carlyf15/Pickem_Predictions/blob/master/Stats_Scraping/2020_Stats.ipynb): Function scraping raw data into pandas dataframes <br>
 
 3. **Analysis:** <br>
-    a. **EDA_2019:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/EDA_2019.ipynb) Extensive analysis of 2019 NFL season. <br>
+    a. [EDA_2019](https://github.com/carlyf15/Pickem_Predictions/blob/master/EDA_2019.ipynb): Extensive analysis of 2019 NFL season. <br>
 
 4. **Modeling & Predictions:** <br>
-    a. **Modeling:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Modeling.ipynb) Modeling data into final algorithm. <br>
-    b. **Final_Predictions:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/Final_Predictions.ipynb) Function which uses final model to make live predictions. <br>
+    a. [Modeling](https://github.com/carlyf15/Pickem_Predictions/blob/master/Modeling.ipynb): Modeling data into final algorithm. <br>
+    b. [Final_Predictions](https://github.com/carlyf15/Pickem_Predictions/blob/master/Final_Predictions.ipynb): Function which uses final model to make live predictions. <br>
 
 5. **Presentation:** <br>
-    a. **Presentation:** [Notebook](https://github.com/carlyf15/Pickem_Predictions/blob/master/presentation.pdf) Slide deck <br>
+    a. [Presentation](https://github.com/carlyf15/Pickem_Predictions/blob/master/presentation.pdf): Slide deck <br>
 
 ## Methodology
 
